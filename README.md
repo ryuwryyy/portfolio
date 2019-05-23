@@ -88,6 +88,7 @@ Unity/LAMP
 # HR_consulting_tool
 Tool to aggregate and automatically graph the innovators of an organization (HR Consulting Company outsources work)
 組織のイノベーター度を集計し、自動でグラフにするツール (HRコンサル会社で業務委託)
+![スクリーンショット 0031-05-24 0 10 08](https://user-images.githubusercontent.com/22891587/58264232-790f2180-7db8-11e9-8755-8b6f845475e8.png)
 - **function**:
 Spider graph from Spread Sheet/internal ranking
 Spread Sheetからスパイダーグラフを作成/社内の順位付け機能
