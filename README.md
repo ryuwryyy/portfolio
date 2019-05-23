@@ -41,7 +41,7 @@ Ruby on Rails/AWS/Javascript
 
 # 2DVtuber
 Real-time tracking for 2D avatar video distribution(Vtuber)
-リアルタイムトラッキングによる２Dアバターの動画配信環境（いわゆる Vtuber）
+リアルタイムトラッキングによる２Dアバターの動画配信環境
 ![faceTracking](https://user-images.githubusercontent.com/22891587/58255686-815f6080-7da8-11e9-906d-030a37816787.gif)
 - **function**:
 Avatar's movement of mouth/blink/breathing in real-time response to yourself
