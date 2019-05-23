@@ -73,7 +73,7 @@ Animation of engage breathing to do meditation/Memo/SNS shre(create OGP automati
 CSS/Ruby On Rails
 
 
-# リズムゲーム
+# Otogame
 A game in which contestants try to score against falling Notes
 上から落ちてくるノーツに合わせてスコアを競うゲーム
 ![Otogame mov](https://user-images.githubusercontent.com/22891587/58257451-e9637600-7dab-11e9-908e-a22b9e012876.gif)
