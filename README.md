@@ -1,9 +1,8 @@
 # Portforio
-## Career
 ![スクリーンショット 0031-05-23 21 13 55](https://user-images.githubusercontent.com/22891587/58253617-d2208a80-7da3-11e9-96a2-a206c55b78ef.png)
 1. data_science: Python/画像認識/機械学習/統計(1年半)
-2. Web Engineering: Ruby on Rails/AWS(3ヶ月)
-3. HP制作: Wordpress/css/JS/AdobePs/Ai/Pr(1年)
+2. Web App: Ruby on Rails/AWS(3ヶ月)
+3. フリーランスでWeb制作: Wordpress/css/JS/AdobePs/Ai/Pr(1年)
 4. Unity: C#/CakePHP(2ヶ月)
 
 # - spocom
@@ -14,22 +13,7 @@
 ## 使用技術
 Ruby on Rails/AWS/Javascript
 
-# - 2DVtuber
-リアルタイムトラッキングによる２Dアバターの動画配信環境（いわゆる Vtuber）
-![スクリーンショット 0031-05-23 21 13 55](https://user-images.githubusercontent.com/22891587/58253617-d2208a80-7da3-11e9-96a2-a206c55b78ef.png)
-## 機能
-音声に合わせてアバターのが口動く/瞬き・呼吸の動作
-## 使用技術
-Unity/C#/Live2D
-
-# - crossityEnglishApp
-気軽に異文化交流できる掲示板・チャット機能のWebアプリケーション 県内の100人の外国人が利用 立ち上げた英会話サークルで使用
-![IMG_2059 2](https://user-images.githubusercontent.com/22891587/58254132-09436b80-7da5-11e9-988f-6c657d2f8daf.JPG)
-## 機能
-掲示板/イベント登録機能/プロフィール機能
-## 使用技術
-Ruby on Rails/Javascript
-
+\n
 # - m-gram_analysis
 400万人の性格データを統計分析 簡易レポート 個人情報保護により一部非公開
 ![スクリーンショット 0031-05-23 21 58 09](https://user-images.githubusercontent.com/22891587/58254512-e6658700-7da5-11e9-871e-5914219fab1c.png)
@@ -38,6 +22,34 @@ Ruby on Rails/Javascript
 ## 使用技術
 Python/多変量解析（統計）/DeepLearning(CNN)
 
+\n
+# - 2DVtuber
+リアルタイムトラッキングによる２Dアバターの動画配信環境（いわゆる Vtuber）
+![faceTracking](https://user-images.githubusercontent.com/22891587/58255686-815f6080-7da8-11e9-906d-030a37816787.gif)
+## 機能
+音声に合わせてアバターのが口動く/瞬き・呼吸の動作
+## 使用技術
+Unity/C#/Live2D
+
+\n
+# - crossityEnglishApp
+気軽に異文化交流できる掲示板・チャット機能のWebアプリケーション 県内の100人の外国人が利用 立ち上げた英会話サークルで使用
+![IMG_2059 2](https://user-images.githubusercontent.com/22891587/58254132-09436b80-7da5-11e9-988f-6c657d2f8daf.JPG)
+## 機能
+掲示板/イベント登録機能/プロフィール機能
+## 使用技術
+Ruby on Rails/Javascript
+
+# - 瞑想アプリ
+瞑想へ入るための呼吸を誘導するUI
+
+![meisou mov](https://user-images.githubusercontent.com/22891587/58252751-ccc24080-7da1-11e9-8755-997afc7b30b8.gif)
+## 機能
+呼吸を誘導するアニメーション/メモ機能
+## 使用技術
+CSS/Ruby On Rails
+
+\n
 # - リズムゲーム
 上から落ちてくるノーツに合わせてスコアを競うゲーム
 
@@ -45,14 +57,6 @@ Python/多変量解析（統計）/DeepLearning(CNN)
 タイミング判定機能/楽譜作成機能/ノーツ自動生成機能
 ## 使用技術
 Unity/LAMP
-
-# - 瞑想アプリ
-瞑想へ入るための呼吸を誘導するUI
-![meisou mov](https://user-images.githubusercontent.com/22891587/58252751-ccc24080-7da1-11e9-8755-997afc7b30b8.gif)
-## 機能
-呼吸を誘導するアニメーション/メモ機能
-## 使用技術
-CSS/Ruby On Rails
 
 # - 行動探求リサーチ自動解析ツール
 組織のイノベーター度を集計し、自動でグラフにするツール HRコンサル会社で業務委託
