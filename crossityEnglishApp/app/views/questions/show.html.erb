@@ -1,0 +1,38 @@
+<div class="row form">
+  <div class="col-lg-12">
+
+    <% if @question.asks.present? %>
+      <h3><span>Q</span>Questions</h3>
+      <% @asks.each_with_index do |ask, i|  %>
+      <h4><%= i+1 %>. <%= ask.text %></h4>
+      <% end %>
+      <% if @question.answered?(current_user) %>
+      <%= render partial: "questions/answer", collection: @answers %>
+      <% end %>
+    <% end %>
+
+    <div class="group_action panel panel-default">
+      <div class="panel-body">
+        <% if @question.asks.exists?(user_id: current_user.id) %>
+          <%= link_to '回答する/Answer', "/answers/#{@question.id}" %>
+        <% else %>
+          <h4>※質問がありません※</h4>
+        <% end %>
+      </div>
+    </div>
+
+    <% if @users.present? %>
+      <h3><span>I</span>参加者 /Participants</h3>
+
+      <p>
+      <% @users.each_with_index do |user, i|  %>
+        <%= i+1 %>. <%= user.nickname %>さん
+      <% end %>
+    <% end %></p>
+  </div>
+  <div class="col-lg-12">
+    <%= link_to "ホームに戻る/ Return Home", root_path %>
+</div>
+
+  </div>
+  </div>

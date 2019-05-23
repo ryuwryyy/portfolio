@@ -1,0 +1,5 @@
+<%= @question %>
+
+<% @participants.each do |participant| %>
+  <% participant.user.family_name %>
+<% end %>

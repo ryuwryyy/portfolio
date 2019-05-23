@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DVtuber", "2DVtuber.csproj", "{7E6687DE-79BC-47B8-9259-B67ABB70445B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DVtuber.Editor", "2DVtuber.Editor.csproj", "{B03F3A8C-AC7E-29A4-1E7E-A6A2F4B6A6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6687DE-79BC-47B8-9259-B67ABB70445B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6687DE-79BC-47B8-9259-B67ABB70445B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6687DE-79BC-47B8-9259-B67ABB70445B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6687DE-79BC-47B8-9259-B67ABB70445B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03F3A8C-AC7E-29A4-1E7E-A6A2F4B6A6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03F3A8C-AC7E-29A4-1E7E-A6A2F4B6A6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03F3A8C-AC7E-29A4-1E7E-A6A2F4B6A6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03F3A8C-AC7E-29A4-1E7E-A6A2F4B6A6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

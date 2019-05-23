@@ -1,0 +1,39 @@
+// Place all the styles related to the videos controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.select-date {
+  display: inline-block;
+  width: auto;
+}
+
+.electric_bulletin_board{
+  background-image: image-url("electric_bulletin_board.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.video{
+  margin-top:7%;
+  margin-bottom: 10%;
+  padding-right:3%;
+}
+
+.upload-btn{
+  width: 50%;
+  height: 100%;
+  background: #AAAAAA;
+}
+
+.team-heading {
+  text-align: center;
+  color: #EEEEEE;
+  width:100%;
+  background: #00b4cc;
+  padding: 1% 0%;
+}
+
+.audience_seats{
+  background-image: image-url("audience_seats.png");
+  background-size: contain;
+  background-repeat: repeat-y;
+}

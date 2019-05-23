@@ -1,0 +1,41 @@
+<%= stylesheet_link_tag "top_page", :media => "all" %>
+<div class="todays_game">
+
+  <div class="todays_game_title mt-2">
+    <div class="gray_line"></div>
+    <div class="light_gray_line"></div>
+    <h1 class="text-center py-2"><p class="mb-0"><span class="fa fa-check"></span>&nbsp;TODAY'S GAME</p></h1>
+  </div>
+
+  <div class="todays_video pt-3">
+    <div class="mx-auto" style="width: 300px;">
+      <% if @videos.present? %>
+        <% @videos.last(1).each do |video| %>
+          <%= link_to video_path(video) do %>
+            <%= render partial:'/videos/thumbnail', locals:{title:video.title, date:video.date, location:video.location} %>
+          <% end %>
+          <div class="video_title text-center mt-4 mb-1 w-75 mx-auto">
+            <%= video.title.html_safe %>
+          </div>
+        <% end %>
+      <% end%>
+    </div>
+
+    <div class="gray_line"></div>
+    <div class="gray_line"></div>
+
+  </div>
+</div>
+
+<div class="good_play text-center mt-4">
+  <h2 class="px-5"><p class="m-0"><span class="fa fa-trophy"></span> GOOD PLAY</p></h2>
+  <div class="image clearfix my-2">
+    <%= image_tag("video.png") %>
+  </div>
+  <div class="image clearfix my-2">
+    <%= image_tag("video.png") %>
+  </div>  
+  <div class="image clearfix my-2">
+    <%= image_tag("video.png") %>
+  </div>
+</div>
