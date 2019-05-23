@@ -1,9 +1,15 @@
 # Portforio
 ![スクリーンショット 0031-05-23 21 13 55](https://user-images.githubusercontent.com/22891587/58253617-d2208a80-7da3-11e9-96a2-a206c55b78ef.png)
-1. data_science: Python/画像認識/機械学習/統計(1年半)
-2. Web App: Ruby on Rails/AWS(3ヶ月)
-3. フリーランスでWeb制作: Wordpress/css/JS/AdobePs/Ai/Pr(1年)
-4. Unity: C#/CakePHP(2ヶ月)
+
+- Career
+[Wantedly](https://www.wantedly.com/users/17897727)
+[Linkedin](https://www.linkedin.com/in/ryusuke-okazawa-271962130/)
+
+- Skill
+1. data_science: Python/Image Recognition/Statistics(2 years)
+2. Web App: Ruby on Rails/AWS(3 month)
+3. Freelance: Wordpress/css/JS/AdobePs/Ai/Pr(1 year)
+4. Unity: C#/CakePHP(2 month)
 
 # - spocom
 スポーツを動画で楽しく学ぶWebアプリ　J1サッカークラブでの検証実験採用
@@ -53,6 +59,7 @@ CSS/Ruby On Rails
 
 # - リズムゲーム
 上から落ちてくるノーツに合わせてスコアを競うゲーム
+![Otogame mov](https://user-images.githubusercontent.com/22891587/58257451-e9637600-7dab-11e9-908e-a22b9e012876.gif)
 
 ## 機能
 タイミング判定機能/楽譜作成機能/ノーツ自動生成機能
@@ -60,12 +67,12 @@ CSS/Ruby On Rails
 Unity/LAMP
 
 
-# - 行動探求リサーチ自動解析ツール
+# - HR_consulting_tool
 組織のイノベーター度を集計し、自動でグラフにするツール HRコンサル会社で業務委託
 ## 機能
 Spread Sheetからスパイダーグラフを作成/社内の順位付け機能
 ## 使用技術
-Python/Spread sheet
+Python/GCP
 
 
 # - anomaly_detection_string
